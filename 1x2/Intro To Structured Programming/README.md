@@ -6,12 +6,3 @@ For this class we had two types of homeworks.
 codes were available online . It was more about learning a new algorithm,  analysing an algorithm complexity , finding fields where the algorithm was used, documenting the algorithm, 
 and then taking a video where we explained the algorithm to improve our presenting skills as well.
 
-Lab 1 100 / 100
-
-Lab 2 95 / 100
-
-Lab 3 100 / 100
-
-Lab 4 100 / 100 
-
-Semester Project 85 / 100 -- Because I was supposed to mention the commplexity of the algorithm in the video however I thought only mentioning it in the document was enough. So I got a -15
